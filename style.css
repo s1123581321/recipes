@@ -1,0 +1,19 @@
+table {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	border: 1px black;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+th {
+	font-size: 2em;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td {
+	font-size: 1.5em;
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
